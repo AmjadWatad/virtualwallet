@@ -3,6 +3,7 @@
   "version": "0.26.0",
   "description": "Blockchain.info wallet api service",
   "main": "index.js",
+  "license" : "(ISC OR GPL-3.0)",
   "preferGlobal": true,
   "repository": {
     "type": "git",
@@ -42,7 +43,6 @@
     "bitcoinjs-lib": "~2.2.0",
     "blockchain-wallet-client": "3.32.4",
     "blockchain.info": "~2.2.2",
-    "blockchain-wallet-service": "0.26.0",
     "body-parser": "~1.14.1",
     "colors": "~1.1.2",
     "commander": "~2.9.0",
