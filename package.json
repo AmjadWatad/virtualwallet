@@ -3,7 +3,6 @@
   "version": "0.26.0",
   "description": "Blockchain.info wallet api service",
   "main": "index.js",
-  "license" : "(ISC OR GPL-3.0)",
   "preferGlobal": true,
   "repository": {
     "type": "git",
