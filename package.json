@@ -65,11 +65,5 @@
     "sinon-chai": "~2.8.0",
     "standard": "~8.6.0"
   },
-"dependencies": {
-    "blockchain-wallet-service": "~0.22.4"
-},
-"scripts": {
-   "postinstall": "blockchain-wallet-service -V"
-},
 "license" : "(ISC OR GPL-3.0)"
 }
